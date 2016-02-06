@@ -1,0 +1,4 @@
+# MATLAB/Simulink binary formats
+*.mat  binary
+*.mdl  binary
+*.slx  binary
