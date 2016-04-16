@@ -3,3 +3,7 @@ slprj/
 heev_embedded_controller_log.txt
 
 *.autosave
+*.hex
+*.rpg
+*.a2l
+*.vsf
